@@ -32,6 +32,8 @@
             </intent-filter>
         </service>
 
+        <service android:name=".service.HodorBackService" />
+
 
         <activity
             android:name="pl.droidsonroids.hodor.ui.MainActivity"
