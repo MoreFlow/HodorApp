@@ -2,7 +2,7 @@
     <string name="app_name">HodorApp</string>
     <string name="title_activity_main">HodorApp</string>
     <string name="error">Error!</string>
-    <string name="user_not_exists">User doesn\'t exists</string>
+    <string name="user_not_exists">User doesn\'t exist</string>
     <string name="login_dialog_title">Login</string>
     <string name="login_dialog_msg">Login in progress…</string>
     <string name="notification_title">HODOR</string>
@@ -14,4 +14,6 @@
     <string name="send_notification_msg">Do you want to send notification to %s?</string>
     <string name="send">Send</string>
     <string name="send_hodor_back">Send Hodor Back</string>
+    <string name="username_pref_name">username_pref</string>
+    <string name="username_string_pref_name">username</string>
 </resources>
